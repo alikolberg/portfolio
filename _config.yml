@@ -16,7 +16,7 @@
 title: Front End & Design
 email: alisonjkolberg@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a front end developer who specializes in buildng exceptional digital experiences. Currently, I am focused on building accessbile user-centered products. 
+  Alison Kolberg Portfolio 
 github_username: alikolberg
 minimal_mistakes_skin: "contrast"
 search: true
@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Alison Kolberg"
   avatar : "/assets/images/AK.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I'm a front end developer who specializes in buildng exceptional digital experiences. Currently, I am focused on building accessbile user-centered products.."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
