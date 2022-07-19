@@ -88,7 +88,6 @@ defaults:
       # comments: true
       share: true
       related: true
-      classes: wide
   # _pages
   - scope:
       path: "_pages"
@@ -96,7 +95,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      classes: wide 
 
 category_archive:
   type: liquid
