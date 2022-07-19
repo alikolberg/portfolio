@@ -20,6 +20,7 @@ email: alisonjkolberg@gmail.com
 description: Alison Kolberg Portfolio 
 github_username: alikolberg
 minimal_mistakes_skin: "contrast"
+logo: "/assets/images/AK.png"
 search: true
 
 
