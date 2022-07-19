@@ -14,5 +14,5 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
-  gem 'minimal-mistakes-jekyll', '~> 4.24'
+  gem 'minimal-mistakes-jekyll'
 end
