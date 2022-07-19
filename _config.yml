@@ -21,7 +21,13 @@ description: Alison Kolberg Portfolio
 github_username: alikolberg
 minimal_mistakes_skin: "contrast"
 search: true
-
+header:
+  #overlay_image: /assets/images/Lake_Quinault.JPG
+  og_image: /assets/images/Lake_Quinault.JPG
+  # caption: "Photo from the series: [**Straying around**](/weekend_stories/2021/2021-03_Stray_around_3/)"
+  # actions:
+   # - label: "See More"
+    #  url: 
 
 # Build settings
 markdown: kramdown
