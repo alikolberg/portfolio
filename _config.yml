@@ -13,7 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Front End & Design Alison Kolberg Seattle, WA USA
+title: Front End & Design
+Alison Kolberg
+Seattle, WA USA
 email: alisonjkolberg@gmail.com
 description: Alison Kolberg Portfolio 
 github_username: alikolberg
@@ -87,6 +89,7 @@ defaults:
       comments: true
       share: true
       related: true
+      classes: wide
   # _pages
   - scope:
       path: "_pages"
