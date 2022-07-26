@@ -34,6 +34,19 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zone
 include:
   - _pages
+  
+  
+author:
+ name   : "Alison Kolberg"
+ avatar : "/assets/images/AK.JPG"
+ # bio    : "I'm a front end developer who specializes in buildng exceptional digital experiences. Currently, I am focused on building accessbile user-centered products."
+ links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"  
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
