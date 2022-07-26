@@ -1,7 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-caption: "Lake Quinault"
 
 author:
  name   : "Alison Kolberg"
