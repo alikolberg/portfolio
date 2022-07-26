@@ -20,7 +20,7 @@ description: Alison Kolberg Portfolio
 github_username: alikolberg
 minimal_mistakes_skin: "default"
 search: true
-og_image: "/assets/images/AK.JPG"
+
 
 
 # Build settings
@@ -84,7 +84,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       # read_time: true
       # comments: true
       share: true
