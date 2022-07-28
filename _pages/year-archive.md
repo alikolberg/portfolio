@@ -1,5 +1,5 @@
 ---
 title: "Portfolio"
-permalink: /posts/
+permalink: /portfolio/
 layout: posts
 ---
