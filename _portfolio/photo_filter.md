@@ -3,7 +3,7 @@ title: "Photo Filter"
 excerpt: "Upload your image and apply a filter."
 header:
   image: /assets/images/AK.JPG
-  teaser: /assets/images/01_logo.jpg
+  teaser: /assets/images/AK.JPG
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
