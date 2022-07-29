@@ -2,8 +2,8 @@
 title: "Photo Filter"
 excerpt: "Upload your image and apply a filter."
 header:
-  image: /assets/images/AK.jpg
-  teaser: /assets/images/AK.jpg
+  image: /assets/images/AK.JPG
+  teaser: /assets/images/01_logo.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
@@ -12,14 +12,14 @@ sidebar:
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-  - url: /assets/images/Lake_Quinault.JPG.jpg
-    image_path: assets/images/Lake_Quinault.JPG.jpg
+  - url: /assets/images/AK.JPG
+    image_path: assets/images/AK.JPG
     alt: "Lake Quinault1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+  - url: /assets/images/AK.JPG
+    image_path: assets/images/AK.JPG
     alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+  - url: /assets/images/AK.JPG
+    image_path: assets/images/AK.JPG
     alt: "placeholder image 3"
 ---
 
