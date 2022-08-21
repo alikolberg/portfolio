@@ -2,8 +2,8 @@
 title: "Photo Filters"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/images/AK.JPG
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  image: /assets/images/Lake_Quinault.JPG
+  teaser: /assets/images/AK.JPG
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
