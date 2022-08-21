@@ -84,7 +84,7 @@ collections:
     output: true
     permalink: /:collection/:path/
     
-#defaults:
+defaults:
   # _projects
  # - scope:
  #     path: ""
