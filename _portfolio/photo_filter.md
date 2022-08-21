@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/Lake_Quinault.JPG
 sidebar:
   - title: "Role"
-    image: /assets/images/01_logo.png
+    image: 
     image_alt: "logo"
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"
@@ -15,10 +15,10 @@ gallery:
   - url: /assets/images/Lake_Quinault.JPG
     image_path: /assets/images/Lake_Quinault.JPG
     alt: "placeholder image 1"
-   - url: /assets/images/Lake_Quinault.JPG
+  - url: /assets/images/Lake_Quinault.JPG
     image_path: /assets/images/Lake_Quinault.JPG
     alt: "placeholder image 2"
-    - url: /assets/images/Lake_Quinault.JPG
+  - url: /assets/images/Lake_Quinault.JPG
     image_path: /assets/images/Lake_Quinault.JPG
     alt: "placeholder image 3"
 ---
