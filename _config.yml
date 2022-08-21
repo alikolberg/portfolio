@@ -85,7 +85,7 @@ collections:
     permalink: /:collection/:path/
     
 defaults:
-   _projects
+  # _projects
   - scope:
       path: ""
       type: portfolio
