@@ -1,5 +1,5 @@
 ---
-title: "Photo Filters"
+title: "Canoe Coffee"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
   image: /assets/images/Lake_Quinault.JPG
