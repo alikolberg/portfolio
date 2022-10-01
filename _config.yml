@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Front End | Alison Kolberg | Seattle, WA USA
+title: Development | Alison Kolberg | Seattle, WA USA
 logo: "assets/images/01_logo.png"
 email: alisonjkolberg@gmail.com
 description: Alison Kolberg Portfolio 
