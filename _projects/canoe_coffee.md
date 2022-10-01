@@ -9,7 +9,7 @@ sidebar:
   - title: "Role"
     image: 
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    text: "Front-End Developer"
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
