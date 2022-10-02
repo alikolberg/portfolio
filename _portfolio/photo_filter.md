@@ -1,6 +1,7 @@
 ---
 title: "Canoe Coffee"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+excerpt: "Canoe Coffee is a fictional Canoe Based Coffee Shop serving boaters in Seattle, WA.
+reservations=."
 header:
   image: /assets/images/Lake_Quinault.JPG
   teaser: /assets/images/Lake_Quinault.JPG
@@ -23,8 +24,20 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+Canoe Coffee is a fictional Canoe Based Coffee Shop serving boaters in Seattle, WA. Designed to be mobile friendly for boaters on the go, the site takes reservations for the Company.
+
+The front-end is devloped with Bootstrap (v5.2) for easy mobile and desktop access and form entry. 
+
+Tools:
+    Bootstrap (v5.2)
+ 
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+Development:
+
+My main focus during the inital prototyping was the transiton from desktop to mobile. Mobile first development was very important for the intended customer. Utalizing breakpoints I was able to create a column structure that provided a seemless transition from desktop to mobile devices. I tested my orignal design with end users with the objective of easy trasition from Desktop to Mobile. During testing I found my original design with left-side navigation didn't trasnsition well to mobile site. After the feedback, I moved the navigation into a top Navbar component, for mobile site the nav links collapses into a Toggler component. Additionally, encorportated the Scrollspy component into the Nav Bar for quick navigtation. 
+
+Initial Prototype:
+
+
