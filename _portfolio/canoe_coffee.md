@@ -11,13 +11,13 @@ sidebar:
     text: "Designer, Front-End Developer"
 
 gallery:
-  - url: /assets/images/Lake_Quinault.JPG
+  - url: /assets/images/canoe_coffee/Canoe_Coffee_Mobile2.png
     image_path: /assets/images/canoe_coffee/Canoe_Coffee_Mobile2.png
     alt: "Canoe Coffee Website mobile view Reservations"
-  - url: /assets/images/Lake_Quinault.JPG
+  - url: /assets/images/canoe_coffee/Canoe_Coffee_Desktop.png
     image_path: /assets/images/canoe_coffee/Canoe_Coffee_Desktop.png
     alt: "Canoe Coffee website destop view The Boat"
-  - url: /assets/images/Lake_Quinault.JPG
+  - url: /assets/images/canoe_coffee/Canoe_Coffee_Before.png
     image_path: /assets/images/canoe_coffee/Canoe_Coffee_Before.png
     alt: "Canoe Coffee website prototype left side navigation"
 ---
