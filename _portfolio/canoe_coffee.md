@@ -36,17 +36,3 @@ Development:
 
 My main focus during the initial prototyping was the transition from desktop to mobile. The mobile-first development approach was significant for the intended customer. Utilizing breakpoints, I created a column structure that provided a seamless transition from desktop to mobile devices. I tested my original design with end users with the objective of easy transition from Desktop to Mobile. I found that my left-side navigation didn't transition well to the mobile site during testing. After the feedback, I moved the navigation into a top Navbar component; for the mobile site, the nav links collapsed into a Toggler component. I additionally incorporated the Scrollspy feature into the Nav Bar for quick navigation. 
 
-Initial Prototype
-
-gallery:
-  - url: /assets/images/Lake_Quinault.JPG
-    image_path: /assets/images/Lake_Quinault.JPG
-    alt: "placeholder image 1"
-  - url: /assets/images/Lake_Quinault.JPG
-    image_path: /assets/images/Lake_Quinault.JPG
-    alt: "placeholder image 2"
-  - url: /assets/images/Lake_Quinault.JPG
-    image_path: /assets/images/Lake_Quinault.JPG
-    alt: "placeholder image 3"
----
-
