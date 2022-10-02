@@ -10,7 +10,7 @@ sidebar:
   - title: "Site Link"
     text: "Canoe Coffee"
   - title: "Documentation"
-    text: <a href="https://alikolberg.github.io/forms/"> Github Repository
+    text: <a href="https://alikolberg.github.io/forms/" target="_blank" > Github Repository
     
   
 
