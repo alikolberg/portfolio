@@ -6,9 +6,13 @@ header:
   teaser: /assets/images/canoe_coffee/Canoe_Coffee_Mobile1.png
 sidebar:
   - title: "Role"
-    image: 
-    image_alt: "logo"
     text: "Designer, Front-End Developer"
+  - title: "Site Link"
+    text: "Canoe Coffee"
+  - title: "Github"
+    link: "https://alikolberg.github.io/forms/#reservations"
+    
+  
 
 gallery:
   - url: /assets/images/canoe_coffee/Canoe_Coffee_Mobile2.png
