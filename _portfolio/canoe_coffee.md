@@ -8,9 +8,9 @@ sidebar:
   - title: "Role"
     text: "Designer, Front-End Developer"
   - title: "Site Link"
-    text: "Canoe Coffee"
+    text: <a href="https://alikolberg.github.io/forms/" target="_blank"> Canoe Coffee</a>
   - title: "Documentation"
-    text: <a href="https://alikolberg.github.io/forms/" target="_blank" > Github Repository
+    text: <a href="[https://alikolberg.github.io/forms/](https://github.com/alikolberg/forms)" target="_blank"> Github Repository </a>
     
   
 
