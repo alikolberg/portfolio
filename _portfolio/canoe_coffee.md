@@ -2,7 +2,7 @@
 title: "Canoe Coffee"
 excerpt: "Canoe Coffee is a mobile-first site for a fictional Canoe Based Coffee Shop serving boaters in Seattle, WA."
 header:
-  image: /assets/images/canoe_coffee/Canoe_Coffee_Mobile1.png
+  image:
   teaser: /assets/images/canoe_coffee/Canoe_Coffee_Mobile1.png
 sidebar:
   - title: "Role"
@@ -15,8 +15,8 @@ sidebar:
   
 
 gallery:
-  - url: /assets/images/canoe_coffee/Canoe_Coffee_mobile2.png
-    image_path: /assets/images/canoe_coffee/Canoe_Coffee_mobile2.png
+  - url: /assets/images/canoe_coffee/Canoe_Coffee_Mobile1.png
+    image_path: /assets/images/canoe_coffee/Canoe_Coffee_Mobile1.png
     alt: "Canoe Coffee Website mobile view Reservations"
   - url: /assets/images/canoe_coffee/Canoe_Coffee_Desktop.png
     image_path: /assets/images/canoe_coffee/Canoe_Coffee_Desktop.png
