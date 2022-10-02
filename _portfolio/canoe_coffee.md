@@ -9,8 +9,8 @@ sidebar:
     text: "Designer, Front-End Developer"
   - title: "Site Link"
     text: "Canoe Coffee"
-  - title: "Github"
-    link: "https://alikolberg.github.io/forms/#reservations"
+  - title: "Documentation"
+    text: <a href="https://alikolberg.github.io/forms/"> Github Repository
     
   
 
