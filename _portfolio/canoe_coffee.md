@@ -2,8 +2,8 @@
 title: "Canoe Coffee"
 excerpt: "Canoe Coffee is a mobile-first site for a fictional Canoe Based Coffee Shop serving boaters in Seattle, WA."
 header:
-  image: /assets/images/Lake_Quinault.JPG
-  teaser: /assets/images/Lake_Quinault.JPG
+  image: /assets/images/canoe_coffee/Canoe_Coffee_Mobile1.png
+  teaser: /assets/images/canoe_coffee/Canoe_Coffee_Mobile1.png
 sidebar:
   - title: "Role"
     image: 
@@ -12,14 +12,14 @@ sidebar:
 
 gallery:
   - url: /assets/images/Lake_Quinault.JPG
-    image_path: /assets/images/Lake_Quinault.JPG
-    alt: "placeholder image 1"
+    image_path: /assets/images/canoe_coffee/Canoe_Coffee_Mobile1.png
+    alt: "Canoe Coffee Website mobile view Reservations"
   - url: /assets/images/Lake_Quinault.JPG
-    image_path: /assets/images/Lake_Quinault.JPG
-    alt: "placeholder image 2"
+    image_path: /assets/images/canoe_coffee/Canoe_Coffee_Mobile1.png
+    alt: "Canoe Coffee website destop view The Boat"
   - url: /assets/images/Lake_Quinault.JPG
-    image_path: /assets/images/Lake_Quinault.JPG
-    alt: "placeholder image 3"
+    image_path: /assets/images/canoe_coffee/Canoe_Coffee_Mobile1.png
+    alt: "Canoe Coffee website prototype left side navigation"
 ---
 
 
