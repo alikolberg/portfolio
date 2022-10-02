@@ -15,8 +15,8 @@ sidebar:
   
 
 gallery:
-  - url: /assets/images/canoe_coffee/Canoe_Coffee_Mobile2.png
-    image_path: /assets/images/canoe_coffee/Canoe_Coffee_Mobile2.png
+  - url: /assets/images/canoe_coffee/Canoe_Coffee_mobile2.png
+    image_path: /assets/images/canoe_coffee/Canoe_Coffee_mobile2.png
     alt: "Canoe Coffee Website mobile view Reservations"
   - url: /assets/images/canoe_coffee/Canoe_Coffee_Desktop.png
     image_path: /assets/images/canoe_coffee/Canoe_Coffee_Desktop.png
