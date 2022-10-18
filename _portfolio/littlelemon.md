@@ -10,7 +10,7 @@ sidebar:
   - title: "Site Link"
     text: <a href="https://alikolberg.github.io/littlelemonresturant/" target="_blank"> Little Lemon Resturaunt</a>
   - title: "Documentation"
-    text: <a href="https://alikolberg.github.io/littlelemonresturant/" target="_blank"> Github Repository </a>
+    text: <a href="https://github.com/alikolberg/littlelemonresturant" target="_blank"> Github Repository </a>
     
   
 
@@ -35,12 +35,3 @@ Tools:
     Flexbox
 
 
-
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
