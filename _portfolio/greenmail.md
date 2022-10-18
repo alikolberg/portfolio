@@ -22,7 +22,7 @@ gallery:
     image_path: /assets/images/greenmail/greenmailicons.png
     alt: "Icons with visual constrast"
   - url: /assets/images/greenmail/greenmail2.png
-    image_path: /assets/images/greenmail/greenmail.png
+    image_path: /assets/images/greenmail/greenmail2.png
     alt: "Plugin Interaction."
 ---
 
