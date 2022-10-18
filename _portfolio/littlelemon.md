@@ -3,7 +3,7 @@ title: "Little Lemon Resturaunt"
 excerpt: ""
 header:
   image:
-  teaser: /assets/images/canoe_coffee/Canoe_Coffee_Mobile1.png
+  teaser: /assets/images/little_lemon/little_lemon.png
 sidebar:
   - title: "Role"
     text: "Front-End Developer"
