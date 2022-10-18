@@ -3,12 +3,14 @@ title: "Canoe Coffee"
 excerpt: "Canoe Coffee is a mobile-first site for a fictional Canoe Based Coffee Shop serving boaters in Seattle, WA."
 header:
   image:
-  teaser: /assets/images/canoe_coffee/Canoe_Coffee_Mobile1.png
+  teaser: /assets/images/greenmail/greenmail1.png
 sidebar:
   - title: "Role"
     text: "Designer, Front-End Developer"
   - title: "Documentation"
     text: <a href="https://github.com/RebeccaRoach/GreenMail" target="_blank"> Github Repository </a>
+  - title: "Video"
+    text: <a href="https://youtu.be/OiTJnMyXI9Y" target="_blank"> Video Submission </a>
     
   
 
@@ -19,14 +21,15 @@ gallery:
   - url: /assets/images/greenmail/greenmailicons.png
     image_path: /assets/images/greenmail/greenmailicons.png
     alt: "Icons with visual constrast"
+  - url: /assets/images/greenmail/greenmail2.png
+    image_path: /assets/images/greenmail/greenmail.png
+    alt: "Plugin Interaction."
 ---
 
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
-Canoe Coffee is a fictional Canoe Based Coffee Shop serving boaters in Seattle, WA. The site's mobile-friendly design is for boaters on the go to look up the menu and make reservations.
 
-The front-end is developed with Bootstrap (v5.2) for easy mobile and desktop access and form entry. 
 
 Tools:
     HTML
@@ -35,4 +38,4 @@ Tools:
 
 Development:
 
-Ada Hackathon project.
+Ada Hackathon project
