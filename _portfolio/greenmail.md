@@ -1,6 +1,6 @@
 ---
-title: "Canoe Coffee"
-excerpt: "Canoe Coffee is a mobile-first site for a fictional Canoe Based Coffee Shop serving boaters in Seattle, WA."
+title: "GreenMail"
+excerpt: "Reducing our carbon footprint by reducing cluttered inboxes."
 header:
   image:
   teaser: /assets/images/greenmail/greenmail1.png
